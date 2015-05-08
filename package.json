@@ -1,0 +1,17 @@
+{
+  "name": "speedtest-check",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.0.30",
+    "mongoose": "^4.0.2",
+    "node-schedule": "^0.2.6",
+    "speedtest-net": "^0.2.1"
+  }
+}
